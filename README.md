@@ -22,6 +22,14 @@ This library recursively walks those records and returns normalized ranges.
 
 ## Install
 
+### From PyPI
+
+```bash
+pip install google-dns-ips
+```
+
+### Local Development
+
 From the project root:
 
 ```bash
