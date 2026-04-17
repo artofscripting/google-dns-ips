@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/google_dns_ips/__init__.py
+src/google_dns_ips/query.py
+src/google_dns_ips/resolver.py
+src/google_dns_ips.egg-info/PKG-INFO
+src/google_dns_ips.egg-info/SOURCES.txt
+src/google_dns_ips.egg-info/dependency_links.txt
+src/google_dns_ips.egg-info/requires.txt
+src/google_dns_ips.egg-info/top_level.txt
